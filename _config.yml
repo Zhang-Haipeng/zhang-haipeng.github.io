@@ -10,7 +10,7 @@ favicon: assets/img/avatars/tw_avatar.jpg                             # Icon dis
 
 # Header and footer text
 header_text: |+
-  Welcome to my personal blog. 
+  Welcome to my personal blog. \n
   Roc: a gigantic mythological bird described in the Arabian Nights. 
 # Change Blog header text
 header_feature_image: assets/img/pexels/_MG_0345-3-1.jpeg
