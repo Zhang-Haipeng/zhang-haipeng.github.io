@@ -6,11 +6,11 @@ url: "https://zhang-haipeng.github.io/"
 title: Haipeng(Roc) Zhang's personal blog                                    # site's title
 description: "Haipeng Zhang's personal blog"      # used by search engines
 avatar: assets/img/avatars/tw_avatar.jpg                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+favicon: assets/img/avatars/tw_avatar.jpg                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Haipeng(Roc) Zhang's personal blog  # Change Blog header text
-header_feature_image: assets/img/pexels/_MG_0345-3.jpg
+header_feature_image: assets/img/pexels/triangular.jpeg
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
