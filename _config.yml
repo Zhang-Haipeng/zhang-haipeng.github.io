@@ -10,7 +10,7 @@ favicon: assets/img/avatars/tw_avatar.jpg                             # Icon dis
 
 # Header and footer text
 header_text: Welcome to my personal blog. # Change Blog header text
-header_feature_image: assets/img/pexels/_MG_0345-3-1.jpg
+header_feature_image: assets/img/pexels/triangular-2.jpg
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
