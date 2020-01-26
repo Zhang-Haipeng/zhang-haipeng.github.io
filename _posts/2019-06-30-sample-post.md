@@ -31,6 +31,6 @@ Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliqu
 Here's a video:
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/aWB4gR_IvJ4" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aWB4gR_IvJ4" frameborder="0" allowfullscreen="true" autoplay="true"> </iframe>
 </figure>
 <!-- blank line -->
