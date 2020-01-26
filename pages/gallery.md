@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Gallery
-subtitle: Try rotate and room-in if you are using a phone or pad
+subtitle: collection of the photos
 permalink: /gallery/
 gallery_path: "assets/img/gallery"
 tags: [Gallery, Photo]
 ---
 
+Rotate and room-in on mobile devices
 {% include gallery.html gallery_path=page.gallery_path %}
