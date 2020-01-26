@@ -34,3 +34,13 @@ Here's a video:
   <iframe width="498" height="510" src="https://www.youtube.com/embed/aWB4gR_IvJ4" frameborder="0" allowfullscreen="true" autoplay> </iframe>
 </figure>
 <!-- blank line -->
+  
+  
+Here's a local video: 
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="assets/img/pexels/MG_0152.jpg">
+    <source src="assets/img/video/IMG_6277.MOV" type="video/mov">
+  </video>
+</figure>
+<!-- blank line -->
