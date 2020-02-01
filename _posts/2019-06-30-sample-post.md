@@ -39,8 +39,18 @@ Here's a video:
 Here's a local video-mp4: 
 <!-- blank line -->
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="assets/img/pexels/MG_0152.jpg">
+  <video width="320" height="240", controls="true" allowfullscreen="true" poster="assets/img/pexels/MG_0152.jpg">
     <source src="assets/img/video/CandidateVideo.mp4" type="video/mp4">
   </video>
 </figure>
 <!-- blank line -->
+
+
+Here's a nother local video - mp4: 
+<video width="320" height="240" controls>
+  <source src="assets/img/video/CandidateVideo.mp4" type="video/mp4">
+</video>
+
+
+3 local video: 
+![](assets/img/video/CandidateVideo.mp4)
