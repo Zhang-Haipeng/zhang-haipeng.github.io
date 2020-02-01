@@ -36,10 +36,10 @@ Here's a video:
 <!-- blank line -->
   
   
-Here's a local video-mp4: 
+Here's a local video-mp4 567: 
 <!-- blank line -->
 <figure class="video_container">
-  <video width="320" height="240", controls="true" allowfullscreen="true" poster="assets/img/pexels/MG_0152.jpg">
+  <video controls="true" allowfullscreen="true" >
     <source src="assets/img/video/CandidateVideo.mp4" type="video/mp4">
   </video>
 </figure>
