@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-subtitle: Rotate and room-in on mobile devices
+subtitle: try rotate and room-in on mobile devices
 permalink: /gallery/
 gallery_path: "assets/img/gallery"
 tags: [Gallery, Photo]

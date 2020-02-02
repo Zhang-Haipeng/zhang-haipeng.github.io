@@ -34,23 +34,3 @@ Here's a video:
   <iframe width="498" height="510" src="https://www.youtube.com/embed/aWB4gR_IvJ4" frameborder="0" allowfullscreen="true" autoplay> </iframe>
 </figure>
 <!-- blank line -->
-  
-  
-Here's a local video-mp4 567: 
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" >
-    <source src="assets/img/video/CandidateVideo.mp4" type="video/mp4">
-  </video>
-</figure>
-<!-- blank line -->
-
-
-Here's a nother local video - mp4: 
-<video width="320" height="240" controls>
-  <source src="assets/img/video/CandidateVideo.mp4" type="video/mp4">
-</video>
-
-
-3 local video: 
-![](assets/img/video/CandidateVideo.mp4)

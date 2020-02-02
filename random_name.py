@@ -12,7 +12,7 @@ def main():
 
     for filename in os.listdir(path):
         if filename[-4:] == '.jpg': # pass other files
-            numb = str(np.random.randint(1,1000))
+            numb = str(np.random.randint(1,100000000000))
             os.rename(path+'/'+filename, path+'/'+numb+'.jpg')
             print(filename,'to',numb+'.jpg')
     
