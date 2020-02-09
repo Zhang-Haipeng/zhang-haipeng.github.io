@@ -4,7 +4,7 @@ title: Data Structures and Algorithms problems
 tags: [coding_practice, Projects]
 excerpt_separator: <!--more-->
 ---
-Data Structures and Algorithms coding practices. Continuously updating (hopefully every week).
+Data Structures and Algorithms problems solving practices. Continuously updating (hopefully every week).
 <!--more-->
 
 # Problem 1: Spiral Matrix
@@ -43,7 +43,6 @@ Expected output =
 ## Solution  
 
 ```python
-
 def my_solution(n):
 
     # Finding the right way to initialize `x` took me almost as much time as solving the rest of the problem orz
@@ -51,7 +50,7 @@ def my_solution(n):
     x = [[0 for x in range(n)] for y in range(n)] 
 
     stop = n**2
-    m  = 1 # the 12345678...stop 
+    m  = 1 # numbers 12345678...stop 
     r = 0 # round
 
     # fill in the numbers one by one brutally
@@ -76,5 +75,4 @@ def my_solution(n):
         r+=1
         
     return x
-
 ```
