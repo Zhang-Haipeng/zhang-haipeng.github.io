@@ -41,7 +41,7 @@ Expected output =
 
 ## Solution  
 
-{% highlight js %}
+```yml
 
 def my_solution(n):
 
@@ -76,4 +76,4 @@ def my_solution(n):
         
     return x
 
-{% endhighlight %}
+```
