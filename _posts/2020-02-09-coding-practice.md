@@ -4,11 +4,10 @@ title: Data Structures and Algorithms problems
 tags: [coding_practice, Projects]
 excerpt_separator: <!--more-->
 ---
-
 Data Structures and Algorithms coding practices. Continuously updating (hopefully every week).
 <!--more-->
 
-# Spiral Matrix
+# Problem 1: Spiral Matrix
 ##### Difficulty: Difficult
 
 ## Problem statement
@@ -39,9 +38,11 @@ Expected output =
 
 [7, 6, 5]]
 
+#### End of problem statement
+
 ## Solution  
 
-```yml
+```python
 
 def my_solution(n):
 
