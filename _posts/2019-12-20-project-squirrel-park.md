@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 ---
 
 __This is a data visualization group project of course DSCI-532.__ <br/>
-We built a Heroku App with python `dash`. The App allow users learn about the distribution of squirrels in the Central Park of New York, and explore the plots interactively.     
+We built a Heroku App with python `dash`. The App allows users learn about the distribution of squirrels in the Central Park of New York, and explore the plots interactively.     
 <!--more-->
 ## The link to the App
 * [here](https://dsci-532-group203-milestone2.herokuapp.com/) (browse with computers)  
