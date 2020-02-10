@@ -10,7 +10,6 @@ We built a Heroku App with python `dash`. The App allow users learn about the di
 <!--more-->
 ## The link to the App
 * [here](https://dsci-532-group203-milestone2.herokuapp.com/) (browse with computers)  
-<br/>
 
 ## App Usage 
 > * View squirrel distribution by park region, time of the day, and behavior.    
@@ -18,11 +17,9 @@ We built a Heroku App with python `dash`. The App allow users learn about the di
 > * Click on the map or any chart to highlight specific regions. Hold "Shift" and click to highlight and compare multiple regions at once!  
 > * Use the drop-down menu below the graphs to change the behavior displayed.   
 
-<br/>
 
 ## Project's GitHub repo 
 * [here](https://github.com/UBC-MDS/DSCI-532_group-203_Lab1-2)  
-<br/>
 
 ## App description:
 * Our app contains four plots to help our users learn about the distribution of squirrels in the Central Park. It will enable users to  efficiently plan their visit to the park, either to have more interaction with the squirrels or avoid them (for example, if they were planning a picnic). Additionally, users can find information about where to go to observe a certain behavior of the squirrels.  
@@ -35,7 +32,6 @@ We built a Heroku App with python `dash`. The App allow users learn about the di
 
 * Users can select certain regions by clicking on any of the bar charts, or directly on the map, and all plots will interactively highlight the selected regions (as is shown in the second sketch). 
 
-<br/>
 
 ## App Sketch:
 

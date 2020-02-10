@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Structures and Algorithms problems
-tags: [coding_practice, Projects]
+tags: [Coding Practice, Projects]
 excerpt_separator: <!--more-->
 ---
 Data Structures and Algorithms problems solving practices. Continuously updating (hopefully every week).
