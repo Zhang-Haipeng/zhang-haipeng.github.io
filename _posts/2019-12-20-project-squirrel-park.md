@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project - Squirrel Park
-tags: [Project]
+tags: [Projects]
 excerpt_separator: <!--more-->
 ---
 
