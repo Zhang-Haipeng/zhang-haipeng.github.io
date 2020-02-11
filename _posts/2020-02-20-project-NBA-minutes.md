@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project - NBA minutes prediction
+title: Project - NBA Minutes Predictor
 tags: [Projects]
 excerpt_separator: <!--more-->
 ---
