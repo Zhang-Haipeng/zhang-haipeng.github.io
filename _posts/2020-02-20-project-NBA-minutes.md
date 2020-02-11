@@ -107,7 +107,7 @@ If running locally, and not with Docker, make sure you have the required depende
 
 ### Makefile dependency diagram 
 
-<img src="makefile_dependency.png" alt="drawing" height="170"/>
+<img src="assets/img/makefile_dependency.png" alt="drawing" height="170"/>
 
 ## Licence
 
