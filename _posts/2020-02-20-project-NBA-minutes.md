@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 ---
 
 __This is a group project from Data Science Workflows in UBC's Master of Data Science program.__ <br/>
-We developed machine learning models to predict the court minutes of NBA players in future games. The whole project work flow is reproducible with `Make` and `Docker`. More details are specified as follows:
+We developed machine learning models to predict the court minutes of NBA players in future games. The whole project workflow is reproducible with `Make` and `Docker`. More details are specified as follows:
 <!--more-->
 ## Authors
 - Jarvis Nederlof, Roc Zhang, Jack Tan
@@ -104,10 +104,6 @@ If running locally, and not with Docker, make sure you have the required depende
 	 [click here for more information](https://altair-viz.github.io/user_guide/saving_charts.html)
 	 - Latex (TeX Live 2019)
 	 [click here for more information](https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex)
-
-### Makefile dependency diagram 
-
-<img src="assets/img/makefile_dependency.png" alt="drawing" height="170"/>
 
 ## Licence
 
