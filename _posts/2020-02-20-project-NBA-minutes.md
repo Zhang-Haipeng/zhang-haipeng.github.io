@@ -12,7 +12,7 @@ We developed machine learning models to predict the court minutes of NBA players
 - Authors: Jarvis Nederlof, Roc Zhang, Jack Tan
 
 ## Project's GitHub repo 
-* [here](https://github.com/UBC-MDS/DSCI_522_group408)  
+* Project's GitHub repo can be found [here](https://github.com/UBC-MDS/DSCI_522_group408)  
 
 ## Project Report
 * The final report can be found [here](https://github.com/UBC-MDS/DSCI_522_group408/blob/master/report.pdf).
@@ -49,7 +49,7 @@ The Docker container is hosted on Docker Hub and can be viewed [here](https://hu
 
 Alternatively, you can use `make` commands from the root of the directory of this project to reproduce the analysis. The commands are listed as follows:  
 
-```
+```yml
 ##### General commands #####
 # Run the whole workflow
 make all
