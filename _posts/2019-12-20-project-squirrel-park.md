@@ -8,8 +8,11 @@ excerpt_separator: <!--more-->
 __This is a data visualization group project from Data Visualization II in UBC's Master of Data Science program.__ <br/>
 We built a Heroku App with python `dash`. The App allows users learn about the distribution of squirrels in the Central Park of New York, and explore the plots interactively.     
 <!--more-->
+## Authors 
+* Cari Gostic, Roc Zhang, Lori Fang
+
 ## The link to the App
-* [here](https://dsci-532-group203-milestone2.herokuapp.com/) (browse with computers)  
+* The App can be found [here](https://dsci-532-group203-milestone2.herokuapp.com/) (browse with computers).  
 
 ## App Usage 
 > * View squirrel distribution by park region, time of the day, and behavior.    
@@ -19,7 +22,7 @@ We built a Heroku App with python `dash`. The App allows users learn about the d
 
 
 ## Project's GitHub repo 
-* [here](https://github.com/UBC-MDS/DSCI-532_group-203_Lab1-2)  
+* Project's GitHub repo can be found [here](https://github.com/UBC-MDS/DSCI-532_group-203_Lab1-2).  
 
 ## App description:
 * Our app contains four plots to help our users learn about the distribution of squirrels in the Central Park. It will enable users to  efficiently plan their visit to the park, either to have more interaction with the squirrels or avoid them (for example, if they were planning a picnic). Additionally, users can find information about where to go to observe a certain behavior of the squirrels.  

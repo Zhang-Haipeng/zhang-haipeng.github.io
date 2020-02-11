@@ -12,7 +12,7 @@ We developed machine learning models to predict the court minutes of NBA players
 - Authors: Jarvis Nederlof, Roc Zhang, Jack Tan
 
 ## Project's GitHub repo 
-* Project's GitHub repo can be found [here](https://github.com/UBC-MDS/DSCI_522_group408)  
+* Project's GitHub repo can be found [here](https://github.com/UBC-MDS/DSCI_522_group408).  
 
 ## Project Report
 * The final report can be found [here](https://github.com/UBC-MDS/DSCI_522_group408/blob/master/report.pdf).
