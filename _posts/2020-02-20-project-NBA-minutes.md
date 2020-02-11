@@ -8,8 +8,8 @@ excerpt_separator: <!--more-->
 __This is a group project from Data Science Workflows in UBC's Master of Data Science program.__ <br/>
 We developed machine learning models to predict the court minutes of NBA players in future games. The whole project work flow is reproducible with `Make` and `Docker`. More details are specified as follows:
 <!--more-->
-# NBA Minutes Predictor
-- Authors: Jarvis Nederlof, Roc Zhang, Jack Tan
+## Authors
+- Jarvis Nederlof, Roc Zhang, Jack Tan
 
 ## Project's GitHub repo 
 * Project's GitHub repo can be found [here](https://github.com/UBC-MDS/DSCI_522_group408).  
