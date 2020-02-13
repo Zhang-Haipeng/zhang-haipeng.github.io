@@ -11,14 +11,13 @@ excerpt_separator: <!--more-->
 ## Colen:  
 * 2019-11-10
 
-本来
-![Travel]({{ "assets/img/pexels/whistler/LightRoomAE/3.jpg" | relative_url}})
+So there was this Colen(not sure if I spell his name correctly) who generously shared his campfire and life stories with me on the beach tonight.  
+其实我一直都知道人和人的生活方式会很不一样，但这是第一次面对面的去了解这么一个完全不同的人的生活经历和想法，感觉会格外的真实而且有触动。  
 
-![Travel]({{ "assets/img/pexels/whistler/LightRoomAE/2.jpg" | relative_url}})
+![Travel]({{ "assets/img/pexels/colen/1.jpg" | relative_url}})
 
-![Travel]({{ "assets/img/pexels/whistler/LightRoomAE/4.jpg" | relative_url}})
+![Travel]({{ "assets/img/pexels/colen/2.jpg" | relative_url}})
 
-![Travel]({{ "assets/img/pexels/whistler/LightRoomAE/5.jpg" | relative_url}})
 <br/> 
 <br/> 
 
@@ -28,3 +27,4 @@ excerpt_separator: <!--more-->
 
 不知道是纬度的原因还是什么，这边的月亮似乎更显眼，经常傍晚的时候就能看的很清楚  
 ![Travel]({{ "assets/img/pexels/twilight_moon/1.jpg" | relative_url}})
+<br/> 
