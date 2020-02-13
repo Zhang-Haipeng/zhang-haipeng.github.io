@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 ## Colen:  
 * 2019-11-10
 
-So there was this Colen(not sure if I spell his name correctly) who generously shared his campfire and life stories with me on the beach tonight.  
+So there was this Colen (not sure if I spell his name correctly) who generously shared his campfire and life stories with me on the beach tonight.  
 其实我一直都知道人和人的生活方式会很不一样，但这是第一次面对面的去了解这么一个完全不同的人的生活经历和想法，感觉会格外的真实而且有触动。  
 
 ![Travel]({{ "assets/img/pexels/colen/1.jpg" | relative_url}})
