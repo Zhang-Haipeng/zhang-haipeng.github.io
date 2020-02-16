@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 ## Night Downtown:  
 * 2019-12-24
 
-为了练口语骑自行车去Downtown参加meetup，顺便拍几张夜景。  
+今天体验了一下骑自行车往返Downtown，再也不想体验第二次。  
 
 这张在gastown附近，空气里弥漫着大麻的味道，一个流浪汉老哥警告我不要在这拍照，太刺激了：  
 ![Travel]({{ "assets/img/pexels/night_downtown/1.jpg" | relative_url}})
