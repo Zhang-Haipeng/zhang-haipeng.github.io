@@ -8,16 +8,19 @@ excerpt_separator: <!--more-->
 有时候出门去就是为了拍几张照片，把零星的收获记录在这里。<br/>   
 <!--more-->
 
-## dsfasdfasdfasdf:  
-* 2019-11-30
+## Night Downtown:  
+* 2019-12-24
 
-难得晴天，去海边看/拍了一下日落。Again，这边的月亮好清楚 🌜
+为了练口语骑自行车去Downtown参加meetup，顺便拍几张夜景。  
 
-![Travel]({{ "assets/img/pexels/moon_rise/1.jpg" | relative_url}})
+这张在gastown附近，空气里弥漫着大麻的味道，一个流浪汉老哥警告我不要在这拍照，太刺激了：  
+![Travel]({{ "assets/img/pexels/night_downtown/1.jpg" | relative_url}})
+  
+放飞自我的后期，也挺好玩的：
 
-![Travel]({{ "assets/img/pexels/moon_rise/2.jpg" | relative_url}})
+![Travel]({{ "assets/img/pexels/night_downtown/2.jpg" | relative_url}})
 
-![Travel]({{ "assets/img/pexels/moon_rise/3.jpg" | relative_url}})
+![Travel]({{ "assets/img/pexels/night_downtown/3.jpg" | relative_url}})
 
 <br/> 
 <br/> 
@@ -32,7 +35,8 @@ excerpt_separator: <!--more-->
 ![Travel]({{ "assets/img/pexels/freezing_cold/1.jpg" | relative_url}})
 
 一路向北到了Horseshoe Bay (0度左右不戴护膝差点把腿给冻废了。。回家来果断淘宝逆向海淘一个)，靠近Bay的地方是个小村子，依山坡而建，错落有致的，配上晚上的星空显得格外宁静、漂亮。  
-照片也就这样了，试了几个位置拍，也就这张勉强能看，其他的都有光污染。下次找机会得去个更偏点的地方。而且一张长曝出来的照片总感觉噪点太多了，不知道怎么能拍出那种干净的银河，还是得多练习啊  
+照片也就这样了，试了几个位置拍，也就这张勉强能看，其他的都有光污染。下次得去个更偏点的地方。  
+而且一张长曝出来的照片总感觉杂光太多了，不知道怎么能拍出那种干净的银河，还是得多练习啊  
 
 ![Travel]({{ "assets/img/pexels/freezing_cold/2.jpg" | relative_url}})
 
