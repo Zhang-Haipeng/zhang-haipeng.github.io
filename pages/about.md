@@ -1,9 +1,9 @@
 ---
 layout: page
-title: AboutMe
+title: About
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Archive]
+feature-img: "assets/img/about-cover.jpg"
+tags: [About]
 ---
 
 Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
