@@ -8,6 +8,43 @@ excerpt_separator: <!--more-->
 有时候出门去就是为了拍几张照片，把零星的收获记录在这里。<br/>   
 <!--more-->
 
+## Snowy Beach:  
+* 2020-01-10
+
+虽然是在温哥华的第一个冬天，但据说这么大的雪是很少见的。  
+也是第一次看下了雪的海滩，很不一样的美。
+
+![Travel]({{ "assets/img/pexels/snowy_beach/1.jpg" | relative_url}})
+  
+![Travel]({{ "assets/img/pexels/snowy_beach/2.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/snowy_beach/3.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/snowy_beach/4.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/snowy_beach/5.jpg" | relative_url}})
+
+<br/> 
+<br/> 
+
+
+
+## Seawall Sunset:  
+* 2020-01-05
+
+好像是半个月以来第一个不下雨的傍晚：  
+
+![Travel]({{ "assets/img/pexels/seawall_sunset/1.jpg" | relative_url}})
+  
+![Travel]({{ "assets/img/pexels/seawall_sunset/2.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/seawall_sunset/3.jpg" | relative_url}})
+
+<br/> 
+<br/> 
+
+
+
 ## Night Downtown:  
 * 2019-12-24
 
@@ -17,7 +54,7 @@ excerpt_separator: <!--more-->
 
 ![Travel]({{ "assets/img/pexels/night_downtown/1.jpg" | relative_url}})
   
-放飞自我的后期，也挺好玩的：
+放飞自我的后期：
 
 ![Travel]({{ "assets/img/pexels/night_downtown/2.jpg" | relative_url}})
 
@@ -66,7 +103,8 @@ excerpt_separator: <!--more-->
 ## 无题 - 1:  
 * 2019-11-21
 
-晚上出门去海边溜达一圈，顺便本想骑车去dt拍点雨天的夜景，想想停车太费劲就还是算了。骑车在学校和周围四处晃荡了一下，没拍到什么照片但是看到了小浣熊lol  所以出门总是会有收获的，别宅着了  
+晚上出门去海边溜达一圈，顺便本想骑车去dt拍点雨天的夜景，想想停车太费劲就还是算了。  
+骑车在学校和周围四处晃荡了一下，没拍到什么照片但是看到了小浣熊lol  所以出门总是会有收获的，别宅着了  
 
 ![Travel]({{ "assets/img/pexels/LightRoomAE/MG_0243.jpg" | relative_url}})
 
