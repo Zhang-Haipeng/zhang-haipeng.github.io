@@ -54,7 +54,7 @@ excerpt_separator: <!--more-->
 
 ![Travel]({{ "assets/img/pexels/night_downtown/1.jpg" | relative_url}})
   
-放飞自我的后期：
+放飞自我的后期，也挺好玩的：
 
 ![Travel]({{ "assets/img/pexels/night_downtown/2.jpg" | relative_url}})
 
