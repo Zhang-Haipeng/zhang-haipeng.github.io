@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 * 2020-01-10
 
 虽然是在温哥华的第一个冬天，但据说这么大的雪是很少见的。  
-也是第一次看下了雪的海滩，很不一样的美。
+也是第一次看下了雪的海滩，很不一样的美：
 
 ![Travel]({{ "assets/img/pexels/snowy_beach/1.jpg" | relative_url}})
   
