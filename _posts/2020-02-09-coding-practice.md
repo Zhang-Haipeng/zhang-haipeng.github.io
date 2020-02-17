@@ -117,8 +117,6 @@ Input will be positive integer.
 
 ## Solution  
 ```python
-
 def solution(N):
     return [' '*(N-i-1) + '#'*(2*i+1) + ' '*(N-i-1) for i in range(N)]
-
 ```
