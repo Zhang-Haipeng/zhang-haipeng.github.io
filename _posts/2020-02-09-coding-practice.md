@@ -9,6 +9,7 @@ Data Structures and Algorithms problems solving practices. Continuously updating
 
 # Problem 1: Spiral Matrix
 ##### Difficulty: Difficult
+##### Date: 2020-02-09
 
 ## Problem statement
 You will be given a positive integer input N, and your job is to return a spiral matrix list size of NxN. 
@@ -43,7 +44,7 @@ Expected output =
 ## Solution  
 
 ```python
-def my_solution(n):
+def solution(n):
 
     # Finding the right way to initialize `x` took me almost as much time as solving the rest of the problem orz
     # I started initializing with x = [[0] * n ] * n, but funny things would happen
@@ -75,4 +76,49 @@ def my_solution(n):
         r+=1
         
     return x
+```
+<br/>
+<br/>
+
+# Problem 2: Pyramid
+##### Difficulty: Moderate
+##### Date: 2020-02-17
+
+## Problem statement
+You will be given an integer input N and your job is to append to a list a pyramid with exactly that many levels.
+
+#### Expected output: list
+
+Input: N = 2
+
+Please note that the `-` are **not** a part of the output, only to show you that a **space** is required.
+
+Output:
+
+(below is for readability, output should be of the format: [" # ", "###"])
+
+'-#-'
+
+'###'
+
+Input: N = 3
+
+'--#--'
+
+'-###-'
+
+'#####'
+
+## Constraints
+
+Input will be positive integer.
+
+#### End of problem statement
+
+## Solution  
+```python
+
+def solution(N):
+    return [' '*(N-i-1) + '#'*(2*i+1) + ' '*(N-i-1) for i in range(N)]
+
 ```
