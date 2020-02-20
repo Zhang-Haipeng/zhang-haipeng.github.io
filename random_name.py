@@ -5,7 +5,7 @@
 import os 
 import numpy as np
 
-path = '/Users/roc/Documents/02_personal-blog/Zhang-Haipeng.github.io/assets/img/gallery'
+path = '/Users/roc/Documents/02_personal-blog/Zhang-Haipeng.github.io/assets/img/gallery/origin'
 
 # Function to rename multiple files 
 def main(): 
