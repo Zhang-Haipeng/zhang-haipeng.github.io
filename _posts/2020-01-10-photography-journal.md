@@ -8,10 +8,32 @@ excerpt_separator: <!--more-->
 有时候出门去就是为了拍几张照片，把零星的收获记录在这里。<br/>   
 <!--more-->
 
+## Porteau Cove:  
+* 2020-02-19
+
+本来的目的地是Garibaldi，实在是太不自量力了，没有专业骑行装备不要在冬天骑长途，lesson learned :sweat:  
+
+![Travel]({{ "assets/img/pexels/iona_beach/1.jpg" | relative_url}})
+  
+![Travel]({{ "assets/img/pexels/iona_beach/2.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/iona_beach/3.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/iona_beach/4.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/iona_beach/5.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/iona_beach/6.jpg" | relative_url}})
+
+<br/> 
+<br/> 
+
+
+
 ## Iona Beach:  
 * 2020-02-18
 
-Reading week 开启塞尔达模式，地图上看一下哪里似乎比较有趣就去看一下。  
+Reading week 开启塞尔达模式，地图上看一下哪里似乎比较有趣就去看一下  
 
 ![Travel]({{ "assets/img/pexels/iona_beach/1.jpg" | relative_url}})
   
