@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 ## Porteau Cove:  
 * 2020-02-19
 
-本来的目的地是Garibaldi，实在是太不自量力了，没有专业骑行装备不要在冬天骑长途 😓  
+本来的目的地是Garibaldi，实在是太不自量力了，没有专业骑行装备不要不要不要在冬天骑长途 😢  
 
 ![Travel]({{ "assets/img/pexels/porteau_cove/1.jpg" | relative_url}})
   
