@@ -120,3 +120,44 @@ Input will be positive integer.
 def solution(N):
     return [' '*(N-i-1) + '#'*(2*i+1) + ' '*(N-i-1) for i in range(N)]
 ```
+<br/>
+<br/>
+
+# Problem 3: Longest Palindromic
+##### Difficulty: Moderate
+##### Date: 2020-02-20
+
+## Problem statement
+You will be given a string `s`, your job is to find and return the longest palindromic substring in `s`. 
+
+#### Expected output
+s = "babad"
+
+Output : "bab" - even "aba" is a valid output
+
+-----------------------------------------------
+s = "cbbc"
+
+Output : "bb"
+
+## References
+[1] https://leetcode.com/problems/longest-palindromic-substring/
+
+#### End of problem statement
+
+## Solution  
+```python
+def longestPalindrome(s):
+    """
+    The idea is to iterate and check through all possible combinations, **from the longest to the shortest**, and stop and return as soon as we find one (so that it's the longest one).
+    """    
+    for i in range(len(s),1,-1):
+        for j in range(len(s)):
+            if i%2 != 0:
+                if (s[j:int((i-1)/2+j)] == s[int((i-1)/2+1+j):int(i+j)][::-1]):
+                        return s[j:(i+j)]
+            if i%2 == 0:
+                if (s[j:int(i/2+j)] == s[int(i/2+j):(i+j)][::-1]):
+                        return s[j:(i+j)]
+    return 'no palindromic found'
+```
