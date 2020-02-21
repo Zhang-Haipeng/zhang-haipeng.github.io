@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 摄影手记
+title: 摄影手记 - Photography Journal
 tags: [Photo]
 excerpt_separator: <!--more-->
 ---
