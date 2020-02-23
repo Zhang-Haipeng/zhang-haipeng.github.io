@@ -141,7 +141,7 @@ s = "cbbc"
 Output : "bb"
 
 ## References
-[1] https://leetcode.com/problems/longest-palindromic-substring/
+The problem is from [here](https://leetcode.com/problems/longest-palindromic-substring/)
 
 #### End of problem statement
 
@@ -178,7 +178,7 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 
 
 ## References
-[1] https://projecteuler.net/problem=2
+The problem is from [here](https://projecteuler.net/problem=2)
 
 #### End of problem statement
 
@@ -212,7 +212,7 @@ What is the largest prime factor of the number 600851475143 ?
 
 
 ## References
-[1] https://projecteuler.net/problem=3
+The problem is from [here](https://projecteuler.net/problem=3)
 
 #### End of problem statement
 
@@ -254,7 +254,7 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 
 
 ## References
-[1] https://projecteuler.net/problem=4
+The problem is from [here](https://projecteuler.net/problem=4)
 
 #### End of problem statement
 
