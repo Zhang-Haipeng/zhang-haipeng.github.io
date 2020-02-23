@@ -160,6 +160,19 @@ def longestPalindrome(s):
                 if (s[j:int(i/2+j)] == s[int(i/2+j):(i+j)][::-1]):
                         return s[j:(i+j)]
     return 'no palindromic found'
+
+def solution_two(s):
+    """
+    The idea is to iterate and check through all possible combinations, and return the longest palindrome.
+    """    
+    longest = ''
+    for i in range(len(s),1,-1):
+        for j in range(len(s)):
+            n = s[j:(i+j)]
+            if (n == n[::-1]):
+                if len(n) > len(longest): # update the longest
+                    longest = n
+    return longest
 ```
 <br/>
 <br/>
