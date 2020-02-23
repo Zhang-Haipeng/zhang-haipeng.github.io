@@ -288,3 +288,41 @@ while x>499:
     y=999
     x-=1
 ```
+<br/>
+<br/>
+
+
+
+# Problem 7: Smallest multiple
+##### Difficulty: Easy
+##### Date: 2020-02-23
+
+## Problem statement
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+
+
+## References
+The problem is from [here](https://projecteuler.net/problem=5)
+
+#### End of problem statement
+
+## Solution  
+```python
+"""
+if a number is evenly divisible by both 16 and 18, then it's ED by 12, because 16 and 18 contains 3 and 4 (4*4 * 3*6 = 3*4 * 4*6)
+"""
+def not_evenly_divisible_20(x):
+    if sum(x%y for y in [20,19,18,17,16,15,14,13,11])==0:
+        return False
+    return True
+    
+x = 2520
+while not_evenly_divisible_20(x):
+    x+=20
+x    
+```
+<br/>
+<br/>
+
