@@ -326,3 +326,43 @@ x
 <br/>
 <br/>
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Problem 8: Smallest multiple
+##### Difficulty: Easy/Moderate
+##### Date: 2020-02-24
+
+## Problem statement
+By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
+
+What is the 10 001st prime number?
+
+
+## References
+The problem is from [here](https://projecteuler.net/problem=7)
+
+#### End of problem statement
+
+## Solution  
+```python
+def get_nth_prime(n):
+    """
+    The point here is: if a number `x` can't be evenly divided by any prime numbers that's smaller than `x`, then `x` is prime.
+    """
+    prime_list = [2] # initiate the list with the first prime number
+    x = 3
+    while len(prime_list) < n:
+        prime = True
+        for i in prime_list:
+            if x % i == 0:
+                prime = False
+                x += 2 # even numbers>2 can't be prime
+                break # we don't want to waste time checking the rest
+        if prime:
+            prime_list.append(x)
+            x += 2
+    return prime_list
+
+get_nth_prime(10001)[-1]
+```
+<br/>
+<br/>
