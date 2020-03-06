@@ -4,7 +4,7 @@ title: pythonchallenge_com
 tags: [Coding Practice]
 excerpt_separator: <!--more-->
 ---
-Record of solving `pythonchallenge.com`.
+Record of solving `pythonchallenge.com` [here](pythonchallenge.com).
 <!--more-->
 
 # Level 1
