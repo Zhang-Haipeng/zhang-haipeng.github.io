@@ -8,7 +8,7 @@ tags: [About]
 
 I put on this blog all kinds of stuff that are worth recording to me.   
 
-If you are interested in certain types of posts (projects, coding, etc.), please browse by `Tags` (the tag icon below or at the top-right corner of the page).  
+If you are interested in certain types of posts (projects, coding, etc.), please browse by [`Tags`](https://zhang-haipeng.github.io/tags/).  
 
 
  
