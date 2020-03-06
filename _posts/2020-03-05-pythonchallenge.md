@@ -1,368 +1,89 @@
 ---
 layout: post
-title: Data Structures and Algorithms problems
+title: pythonchallenge_com
 tags: [Coding Practice]
 excerpt_separator: <!--more-->
 ---
-Data Structures and Algorithms problems solving practices. Continuously updating (hopefully every week).
+Record of solving `pythonchallenge.com`.
 <!--more-->
 
-# Problem 1: Spiral Matrix
-##### Difficulty: Difficult
-##### Date: 2020-02-09
+# Level 1
 
-## Problem statement
-You will be given a positive integer input N, and your job is to return a spiral matrix list size of NxN. 
-
-#### Constraints
-N >= 1
-
-#### Expected output
-
-N = 2
-
-Expected output = 
-
-[[1, 2],
-
-[4, 3]]
-
---------------------------
-
-N = 3 
-
-Expected output = 
-
-[[1, 2, 3],
-
-[8, 9, 4],
-
-[7, 6, 5]]
-
-#### End of problem statement
-
-## Solution  
-
+## code
 ```python
-def solution(n):
-
-    # Finding the right way to initialize `x` took me almost as much time as solving the rest of the problem orz
-    # I started initializing with x = [[0] * n ] * n, but funny things would happen
-    x = [[0 for x in range(n)] for y in range(n)] 
-
-    stop = n**2
-    m  = 1 # numbers 12345678...stop 
-    r = 0 # round
-
-    # fill in the numbers one by one brutally
-    while m <= stop:
-        # go right
-        for i in range(r, n-r):
-            x[r][i] = m
-            m+=1
-        # go down
-        for i in range(r+1, n-r):
-            x[i][n-r-1] = m
-            m+=1
-        # go left
-        for i in range(n-r-2, r-1, -1):
-            x[n-r-1][i] = m
-            m+=1
-        # go up
-        for i in range(n-r-2, r, -1):
-            x[i][r] = m
-            m+=1
-        # next round
-        r+=1
-        
-    return x
+2**38
 ```
+## solution
+http://www.pythonchallenge.com/pc/def/274877906944.html
+
 <br/>
 <br/>
 
-# Problem 2: Pyramid
-##### Difficulty: Moderate
-##### Date: 2020-02-17
+# Level 2
 
-## Problem statement
-You will be given an integer input N and your job is to append to a list a pyramid with exactly that many levels.
-
-#### Expected output: list
-
-Input: N = 2
-
-Please note that the `-` are **not** a part of the output, only to show you that a **space** is required.
-
-Output:
-
-(below is for readability, output should be of the format: [" # ", "###"])
-
-'-#-'
-
-'###'
-
-Input: N = 3
-
-'--#--'
-
-'-###-'
-
-'#####'
-
-## Constraints
-
-Input will be positive integer.
-
-#### End of problem statement
-
-## Solution  
+## code
 ```python
-def solution(N):
-    return [' '*(N-i-1) + '#'*(2*i+1) + ' '*(N-i-1) for i in range(N)]
+code = "g fmnc wms bgblr rpylqjyrc gr zw fylb. rfyrq ufyr amknsrcpq ypc dmp. bmgle gr gl zw fylb gq glcddgagclr ylb rfyr'q ufw rfgq rcvr gq qm jmle. sqgle qrpgle.kyicrpylq() gq pcamkkclbcb. lmu ynnjw ml rfc spj."
+
+def solution(code=code):
+    crack = ''
+    for x in code:
+        if (ord(x) > ord('a')) & (ord(x) < ord('y')):
+            crack += chr(ord(x)+2)
+        elif x == 'y':
+            crack += 'a'
+        elif x == 'z':
+            crack += 'b'
+        else:
+            crack += x
+    return crack
+
+solution()
+>>> "i hope you didnt translate it by hand. thats what computers are for. doing it in by hand is inefficient and that's why this text is so long. using string.maketrans() is recommended. now apply on the url."
+
+solution(http://www.pythonchallenge.com/pc/def/map.html)
+>>> "jvvr://yyy.ravjqpejcnngpig.eqo/re/fgh/ocr.jvon"
 ```
+## solution
+http://www.pythonchallenge.com/pc/def/ocr.html
+
+
 <br/>
 <br/>
 
-# Problem 3: Longest Palindromic
-##### Difficulty: Moderate
-##### Date: 2020-02-20
 
-## Problem statement
-You will be given a string `s`, your job is to find and return the longest palindromic substring in `s`. 
+# Level 3
 
-#### Expected output
-s = "babad"
+## what I did  
+* google "page source"  
+* found website to view page source of websites, https://www.view-page-source.com/
 
-Output : "bab" - even "aba" is a valid output
-
------------------------------------------------
-s = "cbbc"
-
-Output : "bb"
-
-## References
-The problem is from [here](https://leetcode.com/problems/longest-palindromic-substring/)
-
-#### End of problem statement
-
-## Solution  
+## code
 ```python
-def longestPalindrome(s):
-    """
-    The idea is to iterate and check through all possible combinations, **from the longest to the shortest**, and stop and return as soon as we find one (so that it's the longest one).
-    """    
-    for i in range(len(s),1,-1):
-        for j in range(len(s)):
-            if i%2 != 0:
-                if (s[j:int((i-1)/2+j)] == s[int((i-1)/2+1+j):int(i+j)][::-1]):
-                        return s[j:(i+j)]
-            if i%2 == 0:
-                if (s[j:int(i/2+j)] == s[int(i/2+j):(i+j)][::-1]):
-                        return s[j:(i+j)]
-    return 'no palindromic found'
+code = "g fmnc wms bgblr rpylqjyrc gr zw fylb. rfyrq ufyr amknsrcpq ypc dmp. bmgle gr gl zw fylb gq glcddgagclr ylb rfyr'q ufw rfgq rcvr gq qm jmle. sqgle qrpgle.kyicrpylq() gq pcamkkclbcb. lmu ynnjw ml rfc spj."
 
-def solution_two(s):
-    """
-    The idea is to iterate and check through all possible combinations, and return the longest palindrome.
-    """    
-    longest = ''
-    for i in range(len(s),1,-1):
-        for j in range(len(s)):
-            n = s[j:(i+j)]
-            if (n == n[::-1]):
-                if len(n) > len(longest): # update the longest
-                    longest = n
-    return longest
+def solution(code=code):
+    crack = ''
+    for x in code:
+        if (ord(x) > ord('a')) & (ord(x) < ord('y')):
+            crack += chr(ord(x)+2)
+        elif x == 'y':
+            crack += 'a'
+        elif x == 'z':
+            crack += 'b'
+        else:
+            crack += x
+    return crack
+
+solution()
+>>> "i hope you didnt translate it by hand. thats what computers are for. doing it in by hand is inefficient and that's why this text is so long. using string.maketrans() is recommended. now apply on the url."
+
+solution(http://www.pythonchallenge.com/pc/def/map.html)
+>>> "jvvr://yyy.ravjqpejcnngpig.eqo/re/fgh/ocr.jvon"
 ```
-<br/>
-<br/>
+## solution
+http://www.pythonchallenge.com/pc/def/ocr.html
 
 
-# Problem 4: Even Fibonacci numbers
-##### Difficulty: Easy
-##### Date: 2020-02-22
-
-## Problem statement
-Each new term in the Fibonacci sequence is generated by adding the previous two terms. By starting with 1 and 2, the first 10 terms will be:
-
-1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
-
-By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
-
-
-## References
-The problem is from [here](https://projecteuler.net/problem=2)
-
-#### End of problem statement
-
-## Solution  
-```python
-def solution(limit = 4000000):
-    s = 2
-    m = 1
-    n = 2
-    x = 0
-    while x <= limit:
-        x = m+n
-        if x%2 == 0:
-            s+=x
-        m = n
-        n = x
-    return s
-```
-<br/>
-<br/>
-
-
-# Problem 5: Largest prime factor
-##### Difficulty: Moderate
-##### Date: 2020-02-22
-
-## Problem statement
-The prime factors of 13195 are 5, 7, 13 and 29.
-
-What is the largest prime factor of the number 600851475143 ?
-
-
-## References
-The problem is from [here](https://projecteuler.net/problem=3)
-
-#### End of problem statement
-
-## Solution  
-```python
-# the key in solving this problem is to realize that the combination of the prime factors is unique. 
-def is_prime(s):
-    mm = s-1
-    while mm > 1:
-        if s%mm == 0:
-            return False
-        mm -= 1
-    return True
-
-n = 1
-x = 600851475143
-while x != 1:
-    n+=1
-    while is_prime(n)==False:
-        n+=1
-    if x%n == 0:
-        x = x/n
-        print('factor',n)
-print("largest prime factor is{}".format(n))
-```
-<br/>
-<br/>
-
-
-
-# Problem 6: Largest palindrome product
-##### Difficulty: Easy
-##### Date: 2020-02-22
-
-## Problem statement
-A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
-
-Find the largest palindrome made from the product of two 3-digit numbers.
-
-
-## References
-The problem is from [here](https://projecteuler.net/problem=4)
-
-#### End of problem statement
-
-## Solution  
-```python
-x = 999
-y = 999
-largest = 0
-while x>499:
-    while y>1:
-        n = x*y
-        if str(n) == str(n)[::-1]:
-            if n>largest:
-                largest = n
-                print(x,y,largest)
-            break
-        y-=1
-    y=999
-    x-=1
-```
-<br/>
-<br/>
-
-
-
-# Problem 7: Smallest multiple
-##### Difficulty: Easy
-##### Date: 2020-02-23
-
-## Problem statement
-2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
-
-What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
-
-
-## References
-The problem is from [here](https://projecteuler.net/problem=5)
-
-#### End of problem statement
-
-## Solution  
-```python
-"""
-if a number is evenly divisible by both 16 and 18, then it's ED by 12, because 16 and 18 contains 3 and 4 (4*4 * 3*6 = 3*4 * 4*6)
-"""
-def not_evenly_divisible_20(x):
-    if sum(x%y for y in [20,19,18,17,16,15,14,13,11])==0:
-        return False
-    return True
-    
-x = 2520
-while not_evenly_divisible_20(x):
-    x+=20
-x    
-```
-<br/>
-<br/>
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Problem 8: Smallest multiple
-##### Difficulty: Easy/Moderate
-##### Date: 2020-02-24
-
-## Problem statement
-By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
-
-What is the 10 001st prime number?
-
-
-## References
-The problem is from [here](https://projecteuler.net/problem=7)
-
-#### End of problem statement
-
-## Solution  
-```python
-def get_nth_prime(n):
-    """
-    The point here is: if a number `x` can't be evenly divided by any prime numbers that's smaller than `x`, then `x` is prime.
-    """
-    prime_list = [2] # initiate the list with the first prime number
-    x = 3
-    while len(prime_list) < n:
-        prime = True
-        for i in prime_list:
-            if x % i == 0:
-                prime = False
-                x += 2 # even numbers>2 can't be prime
-                break # we don't want to waste time checking the rest
-        if prime:
-            prime_list.append(x)
-            x += 2
-    return prime_list
-
-get_nth_prime(10001)[-1]
-```
 <br/>
 <br/>
