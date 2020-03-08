@@ -4,7 +4,7 @@ title: pythonchallenge_com
 tags: [Coding Practice]
 excerpt_separator: <!--more-->
 ---
-Record of solving [pythonchallenge.com](http://www.pythonchallenge.com/).
+Records of solving [pythonchallenge.com](http://www.pythonchallenge.com/).
 <!--more-->
 
 # Level 1
@@ -116,6 +116,27 @@ crack,cracker
 
 ```
 
+
+<br/>
+<br/>
+
+# Level 5
+
+## code  
+```python
+import requests
+code = '12345'
+try:
+    for i in range(50):
+        link = "http://www.pythonchallenge.com/pc/def/linkedlist.php?nothing="+code
+        f = requests.get(link)
+        print(f.text)
+        code = f.text[-5:]
+except:
+    print('aaaaaaaaaaaaaaa')
+
+# Eyeball the outliers and correct the codes, until I saw : "peak.html"
+```
 
 <br/>
 <br/>
