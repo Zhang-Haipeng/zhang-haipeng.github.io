@@ -140,3 +140,29 @@ except:
 
 <br/>
 <br/>
+
+# Level 6
+
+Wasn't able to hack this one all by myself.  I thought about `pickle` but wasn't able to realize that `banner.p` could actually be an address. And for the code-cracking part. I used some hint from the Internet. It's kind of a pity though, since I really appreciated the way the tricky code was made once I knew the answer. Should have been more patient.    
+
+## solution  
+* View the page source - get "peak hell" - "pickle" and the address, "http://www.pythonchallenge.com/pc/def/banner.p"  
+* Then do the coding part:  
+
+## code  
+```{python}
+import urllib.request
+url = "http://www.pythonchallenge.com/pc/def/banner.p"
+with urllib.request.urlopen(url) as f:
+    result = pickle.load(f)
+    for r in result:
+        print(r)
+
+# observe the printed result then do the following: 
+
+for x in result:
+    s = ''
+    for y in x: 
+        s += y[0]*y[1]
+    print(s)
+```
