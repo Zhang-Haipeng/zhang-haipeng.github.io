@@ -150,7 +150,7 @@ Wasn't able to hack this one all by myself.  I thought about `pickle` but wasn't
 * Then do the coding part:  
 
 ## code  
-```{python}
+```python
 import urllib.request
 url = "http://www.pythonchallenge.com/pc/def/banner.p"
 with urllib.request.urlopen(url) as f:
