@@ -151,6 +151,7 @@ Wasn't able to hack this one all by myself.  I thought about `pickle` but wasn't
 
 ## code  
 ```python
+import pickle
 import urllib.request
 url = "http://www.pythonchallenge.com/pc/def/banner.p"
 with urllib.request.urlopen(url) as f:
@@ -165,4 +166,6 @@ for x in result:
     for y in x: 
         s += y[0]*y[1]
     print(s)
+
+>>>"channel"
 ```
