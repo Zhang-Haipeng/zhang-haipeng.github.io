@@ -431,3 +431,50 @@ p_max, record
 ```
 <br/>
 <br/>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Problem 10: Special Pythagorean triplet
+##### Difficulty: Easy
+##### Date: 2020-03-24
+
+## Problem statement
+A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,  
+
+<p style="text-align: center;">
+\\[ a^2 + b^2 = c^2 \\]
+</p>
+
+For example, \\[ 3^2 + 4^2 = 5^2 \\]  
+
+There exists exactly one Pythagorean triplet for which a + b + c = 1000.  
+Find the product `abc`.  
+
+
+## References
+The problem is from [here](https://projecteuler.net/problem=9)
+
+#### End of problem statement
+
+## Solution  
+```python
+def not_pythagorean(a,b,c):
+    if a**2 + b**2 == c**2:
+        return False
+    return True
+
+a = 0
+b = a
+c = 1000 - a - b
+while not_pythagorean(a,b,c) and a < c:
+    a += 1
+    b = a
+    c = 1000 - a - b
+    while not_pythagorean(a,b,c) and b < c:
+        b += 1
+        c = 1000 - a - b
+print(a,b,c)
+
+```
+<br/>
+<br/>
