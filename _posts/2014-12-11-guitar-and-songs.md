@@ -30,6 +30,7 @@ excerpt_separator: <!--more-->
 <!-- blank line -->
 <br/>
 <br/>
+<br/>
 
 ## 咬之歌
 #### 2014-12-11  
@@ -45,6 +46,7 @@ excerpt_separator: <!--more-->
 <!-- blank line -->
 <br/>
 <br/>
+<br/>
 
 ## 看开
 #### 2013-12-中旬 
@@ -56,6 +58,7 @@ excerpt_separator: <!--more-->
   <iframe width="1120" height="630" src="https://www.youtube.com/embed/qFXqbL02WCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
+<br/>
 <br/>
 <br/>
 
@@ -100,6 +103,7 @@ excerpt_separator: <!--more-->
   <iframe width="1120" height="630" src="https://www.youtube.com/embed/EBCBD0cXoyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
+<br/>
 <br/>
 <br/>
 
