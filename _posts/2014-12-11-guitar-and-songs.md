@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 <br/>
 
 ## Merry Christmas Mr. Lawrence
-#### 2015-12-15
+* 2015-12-15  
 回头再写
 
 <!-- blank line -->
@@ -26,7 +26,7 @@ excerpt_separator: <!--more-->
 <br/>
 
 ## 咬之歌
-#### 2014-12-11
+* 2014-12-11  
 回头再写
 
 <!-- blank line -->
@@ -34,5 +34,7 @@ excerpt_separator: <!--more-->
   <iframe width="1120" height="630" src="https://www.youtube.com/embed/85sauc0LBNs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
+<br/>
+<br/>
 
 
