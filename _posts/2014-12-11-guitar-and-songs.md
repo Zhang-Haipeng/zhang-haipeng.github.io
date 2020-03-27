@@ -12,6 +12,17 @@ excerpt_separator: <!--more-->
 最近越来越觉得弹吉他是一种幸福和享受。<br/>
 
 
+## Merry Christmas Mr. Lawrence
+#### 2015-12-15
+回头再写
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/33chKSlIPBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+<br/>
+<br/>
 
 ## 咬之歌
 #### 2014-12-11
