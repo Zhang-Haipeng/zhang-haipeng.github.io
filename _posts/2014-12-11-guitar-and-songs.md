@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 <br/>
 <br/>
 
-### Merry Christmas Mr. Lawrence
+## Merry Christmas Mr. Lawrence
 * 2015-12-15  
 回头再写
 
@@ -25,7 +25,7 @@ excerpt_separator: <!--more-->
 <br/>
 <br/>
 
-### 咬之歌
+## 咬之歌
 * 2014-12-11  
 回头再写
 
