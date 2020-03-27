@@ -52,7 +52,6 @@ excerpt_separator: <!--more-->
 #### 2013-12-中旬 
 过了复赛以后去找王之峻学长又讨了一首决赛可以唱的歌  哈哈哈  
 说实话复赛唱完《时间》，决赛已经没有太多想法了   
-<br/>
 <!-- blank line -->
 <figure class="video_container">
   <iframe width="1120" height="630" src="https://www.youtube.com/embed/qFXqbL02WCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -97,7 +96,6 @@ excerpt_separator: <!--more-->
 <br/>
 2007.6.9  
 ”  
-<br/>
 <!-- blank line -->
 <figure class="video_container">
   <iframe width="1120" height="630" src="https://www.youtube.com/embed/EBCBD0cXoyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
