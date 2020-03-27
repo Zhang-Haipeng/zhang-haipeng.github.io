@@ -7,7 +7,8 @@ image: "assets/img/guitar.png" #seo tag
 tags: [Music]
 excerpt_separator: <!--more-->
 ---
-音乐是个好东西。回忆也是个好东西。 
+音乐是个好东西。<br/>
+回忆也是。 
 <!--more-->
 
 ## Here
