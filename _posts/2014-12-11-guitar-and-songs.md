@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 <!--more-->
 
 ## Here
-学吉他是我做过最正确的决定之一，虽然这么多年没能学点乐理只会瞎弹，但是对于“自娱自乐”的理解却越发深刻。<br/> 
+学吉他应该是我做过最正确的决定之一，虽然这么多年没能学点乐理只会瞎弹，但是对于“自娱自乐”的理解却越发深刻。<br/> 
 越来越多的觉得弹吉他、唱歌是一种幸福和享受。<br/>
 <br/>
 <br/>
@@ -41,6 +41,47 @@ excerpt_separator: <!--more-->
 <!-- blank line -->
 <figure class="video_container">
   <iframe width="1120" height="630" src="https://www.youtube.com/embed/85sauc0LBNs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+<br/>
+<br/>
+
+## 时间
+#### 2013-11-23  
+词、曲都是王之峻学长写的。  
+觉得能在大四的时候在千礼上唱这首歌，是件很难忘，很有意义的事  
+
+* 歌词：
+时间 时间 时间
+    在我身边留下多少改变
+许愿 誓言 疲倦
+    在那光影之间改变 
+
+感觉那数不清的时间的改变落在身前
+从不曾从不能数那些缥缈的感觉
+带不走猜不透抓不住飘扬的时间
+梦想着空想着妄想着天真的我们
+
+时间 时间 时间
+    在它面前难说什么永远
+一天 四年 一转眼
+    就让改变慢慢沉淀
+
+等待那看不清的时间的未来渐渐浮现
+再不会再不能触摸那灿烂的季节
+模糊了冷落了暗淡了飞扬的时间
+怀念着想念着纪念着天真的我们
+
+請和我跳完這一隻舞
+让美麗的圓周變換那色彩
+请听我唱完这最后一首歌
+再轻轻的闭上你的眼
+
+2007.6.9  
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="1120" height="630" src="https://www.youtube.com/embed/EBCBD0cXoyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
 <br/>
