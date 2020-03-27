@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Guitar and songs
+feature-img: "assets/img/guitar.png"
+thumbnail: "assets/img/guitar.png"
+image: "assets/img/guitar.png" #seo tag
 tags: [Music]
 excerpt_separator: <!--more-->
 ---
