@@ -51,7 +51,7 @@ excerpt_separator: <!--more-->
 词、曲都是王之峻学长写的。  
 觉得能在大四的时候在千礼上唱这首歌，是件很难忘，很有意义的事  
 
-时间 时间 时间<br/>
+“时间 时间 时间<br/>
     在我身边留下多少改变<br/>
 许愿 誓言 疲倦<br/>
     在那光影之间改变 <br/>
@@ -76,7 +76,7 @@ excerpt_separator: <!--more-->
 请听我唱完这最后一首歌<br/>
 再轻轻的闭上你的眼<br/>
 <br/>
-2007.6.9  
+2007.6.9”  
 <br/>
 <!-- blank line -->
 <figure class="video_container">
