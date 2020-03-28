@@ -32,6 +32,21 @@ excerpt_separator: <!--more-->
 <br/>
 <br/>
 
+## Song for 1310
+#### 2015-04-06  
+岸部真明写给师傅中川砂仁的曲子<br/>
+在广州出差的时候，住威尼国际公寓的时候录的。广州闷热潮湿的夏天，现在想起来都觉得很怀念。<br/>  
+为什么回想起任何一段过去的时间，都会觉得怀念？然后又时刻觉得当下不够幸福？  
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="1120" height="630" src="https://www.youtube.com/embed/0U7OwyEjeiM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+<br/>
+<br/>
+<br/>
+
 ## 咬之歌
 #### 2014-12-11  
 最喜欢的民谣歌，没有之一，也是我心里中国民谣歌里最牛逼的一首。  
