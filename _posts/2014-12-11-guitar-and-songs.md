@@ -4,7 +4,7 @@ title: Guitar and songs
 feature-img: "assets/img/guitar.png"
 thumbnail: "assets/img/guitar.png"
 image: "assets/img/guitar.png" #seo tag
-tags: [Music]
+tags: [Guitar/Music]
 excerpt_separator: <!--more-->
 ---
 音乐是个好东西。<br/>
