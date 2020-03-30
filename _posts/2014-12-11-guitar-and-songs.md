@@ -47,6 +47,22 @@ excerpt_separator: <!--more-->
 <br/>
 <br/>
 
+## Clarence
+#### 2015-01-08  
+老爷子写给早故的朋友的曲子<br/>
+在日照出差时候录的。<br/>
+边整理录音边发现，这事还真是蛮有意义。<br/> 
+录下的不只是歌，时间、地点、环境、心情、状态全都记得格外清楚。<br/>
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="1120" height="630" src="https://www.youtube.com/embed/moejcdRGCPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+<br/>
+<br/>
+<br/>
+
 ## 籣
 #### 2015-01-04  
 老爷子境界还是高<br/>
