@@ -47,6 +47,19 @@ excerpt_separator: <!--more-->
 <br/>
 <br/>
 
+## 籣
+#### 2015-01-04  
+老爷子境界还是高<br/>
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="1120" height="630" src="https://www.youtube.com/embed/uqkgsXfW6nI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+<br/>
+<br/>
+<br/>
+
 ## 咬之歌
 #### 2014-12-11  
 最喜欢的民谣歌，没有之一，也是我心里中国民谣歌里最牛逼的一首。  
