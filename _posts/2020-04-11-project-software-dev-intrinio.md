@@ -20,7 +20,7 @@ Python package converts Intrinio objects to native python and pandas objects.
 * Project's GitHub repo can be found [here](https://github.com/UBC-MDS/pyntrinio).  
 
 ### The Project
-This project has been created as part of [UBC's Master of Data Science Program](https://masterdatascience.ubc.ca/). Information about the contributors can be found [here](CONTRIBUTORS.md). The Code of Conduct can be found [here](CONDUCT.md). The collaboration expectations regarding use of Github Flow can be found [here](CONTRIBUTING.md).
+This project has been created as part of [UBC's Master of Data Science Program](https://masterdatascience.ubc.ca/). Information about the contributors can be found [here](https://github.com/UBC-MDS/pyntrinio/blob/master/CONTRIBUTORS.md). The Code of Conduct can be found [here](https://github.com/UBC-MDS/pyntrinio/blob/master/CONDUCT.md). The collaboration expectations regarding use of Github Flow can be found [here](https://github.com/UBC-MDS/pyntrinio/blob/master/CONTRIBUTING.md).
 
 If you were to search the web for "historical stock data", or "financial statement data", the results you would come across would be a variety of web applications (such as Google Finance), and maybe some PDFs of financial statements. This is fair, as there is a massive volume of stock data, and financial statements require lots of discretion (including standards followed - US companies may choose between reporting under IFRS and US GAAP). [Intrinio](https://intrinio.com/) offers solutions to this problem with an API platform that can easily be used to extract data and perform further analysis on it.
 
@@ -168,9 +168,9 @@ The vignette can be found [here](https://ubc-mds.github.io/rintrinio/).<br/>
 
 This project has been created as part of [UBC’s Master of Data Science
 Program](https://masterdatascience.ubc.ca/). Information about the
-contributors can be found [here](CONTRIBUTORS.md). The Code of Conduct
-can be found [here](CONDUCT.md). The collaboration expectations
-regarding use of Github Flow can be found [here](CONTRIBUTING.md).
+contributors can be found [here](https://github.com/UBC-MDS/rintrinio/blob/master/CONTRIBUTORS.md). The Code of Conduct
+can be found [here](https://github.com/UBC-MDS/rintrinio/blob/master/CONDUCT.md). The collaboration expectations
+regarding use of Github Flow can be found [here](https://github.com/UBC-MDS/rintrinio/blob/master/CONTRIBUTING.md).
 
 If you were to search the web for “historical stock data”, or “financial
 statement data”, the results you would come across would be a variety of
