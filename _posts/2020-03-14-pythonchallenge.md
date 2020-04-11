@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pythonchallenge_com
+title: pythonchallenge
 tags: [Coding Practice]
 excerpt_separator: <!--more-->
 ---
