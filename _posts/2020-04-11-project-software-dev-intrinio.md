@@ -14,10 +14,6 @@ We developed two packages (Python + R) to retrieve data from Intrinio API object
 ------------------------------------------------------------------------------------
 ## pyntrinio (Python version)
 
-![](https://github.com/UBC-MDS/pyntrinio/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/UBC-MDS/pyntrinio/branch/master/graph/badge.svg)](https://codecov.io/gh/UBC-MDS/pyntrinio) ![Release](https://github.com/UBC-MDS/pyntrinio/workflows/Release/badge.svg)
-
-[![Documentation Status](https://readthedocs.org/projects/pyntrinio/badge/?version=latest)](https://pyntrinio.readthedocs.io/en/latest/?badge=latest)
-
 Python package converts Intrinio objects to native python and pandas objects.
 
 ### Project's GitHub repo 
@@ -69,7 +65,7 @@ Ensure that you have poetry installed in your system. To install, please see the
 
 To get the line coverage, run the following command line code :
 
-```{}
+```
 poetry add --dev pytest-cov
 poetry run pytest --cov=pyntrinio
 ```
@@ -77,7 +73,7 @@ poetry run pytest --cov=pyntrinio
 
 To get the branch coverage, run the following command line code:
 
-```{}
+```
 poetry add --dev pytest-cov
 poetry run pytest --cov-branch --cov=pyntrinio
 ```
@@ -158,13 +154,6 @@ Van Rossum, G., & Drake, F. L. (2009). Python 3 Reference Manual. Scotts Valley,
 ------------------------------------------------------------------------------------
 
 ## rintrinio (R version)
-
-<!-- badges: start -->
-
-[![R build
-status](https://github.com/UBC-MDS/rintrinio/workflows/R-CMD-check/badge.svg)](https://github.com/UBC-MDS/rintrinio/actions)
-[![codecov](https://codecov.io/gh/UBC-MDS/rintrinio/branch/master/graph/badge.svg)](https://codecov.io/gh/UBC-MDS/rintrinio)
-<!-- badges: end -->
 
 R (R Core Team 2019) package converts Intrinio (Swagger Codegen
 community 2020) objects and lists to dataframes.
