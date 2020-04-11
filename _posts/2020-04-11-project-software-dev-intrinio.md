@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 ---
 
 __This is a group project from Collaborative Software Development in UBC's Master of Data Science program.__ <br/>
-We developed two packages (Python + R) to retrieve data from Intrinio API objects in desired formats (DataFrame or dictionary). 
+We developed two packages (Python + R) to retrieve data from [Intrinio](https://intrinio.com/) API objects in desired formats (DataFrame or dictionary). 
 <!--more-->
 ## Authors
 - Samantha Solomon, Roc Zhang, Sirine Chahma, Aakanksha Dimri
