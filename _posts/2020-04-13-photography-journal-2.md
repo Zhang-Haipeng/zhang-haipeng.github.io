@@ -28,11 +28,7 @@ excerpt_separator: <!--more-->
 
 ![Travel]({{ "assets/img/pexels/sakura2/4.jpg" | relative_url}})
 
-![Travel]({{ "assets/img/pexels/sakura2/5.jpg" | relative_url}})
-
 ![Travel]({{ "assets/img/pexels/sakura2/6.jpg" | relative_url}})
-
-![Travel]({{ "assets/img/pexels/sakura2/7.jpg" | relative_url}})
 
 ![Travel]({{ "assets/img/pexels/sakura2/8.jpg" | relative_url}})
 
