@@ -13,6 +13,38 @@ excerpt_separator: <!--more-->
 * [摄影手记 - 1 (2019-11 ~ 2020-02)](https://zhang-haipeng.github.io/2020/02/19/photography-journal.html)  
 <br/> 
 <br/> 
+
+## Sakura - 2:  
+* 2020-04-13
+
+骑车去Burnaby那边拍了一下樱花的街景 天气一暖和 路上摩托车明显多了很多 <br>
+顺便在那边瞎溜达了一下 感觉各种house还是挺好看的  有机会可以考虑专门拍下🏡（又立flag）
+
+![Travel]({{ "assets/img/pexels/sakura2/1.jpg" | relative_url}})
+  
+![Travel]({{ "assets/img/pexels/sakura2/2.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/sakura2/3.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/sakura2/4.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/sakura2/5.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/sakura2/6.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/sakura2/7.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/sakura2/8.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/sakura2/9.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/sakura2/10.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/sakura2/11.jpg" | relative_url}})
+
+
+<br/> 
+<br/> 
   
 ## Sakura 🌸:  
 * 2020-03-21
