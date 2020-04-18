@@ -17,6 +17,20 @@ excerpt_separator: <!--more-->
 <br/>
 <br/>
 
+## 咬之歌 纯伴奏 
+#### 2020-04-17  
+这么多年没弹的伴奏了，东拼西凑的找谱子听原版总算又捡了起来。 <br>
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="1120" height="630" src="https://www.youtube.com/embed/vIOuiQ6x4mQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+<br/>
+<br/>
+<br/>
+
+
 ## Merry Christmas Mr. Lawrence
 #### 2015-12-15  
 这应该是练得最苦的一首曲子。从大学毕业之前就练习过一段时间，最后感觉练成无望放弃了（用当时室友的话说，不是练琴，是在搞装修LOL）。后来14年的冬天，圣诞节之前应该也是坚持苦练了一段时间，还是没能练好。直到15年冬天再练，才终于啃了下来。开心得不得了。  
