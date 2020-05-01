@@ -9,7 +9,7 @@ Made a simple scraper to download all the lecture recordings. Then rename and so
 
 <!--more-->
 ## Code
-```Python
+```python
 # Python3
 
 import requests
