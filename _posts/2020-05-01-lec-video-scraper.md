@@ -20,9 +20,9 @@ import os
 ################
 ### Download ###
 ################
-# download all the lecture recordings from "http://"
+# download all the lecture recordings from "http://url-hidden"
 
-url = "http://"
+url = "http://url-hidden"
 rq = requests.get(url)
 bs = BeautifulSoup(rq.text, features="lxml")
 mp4 = [x.text for x in bs.find_all("li")]
