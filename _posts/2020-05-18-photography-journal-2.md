@@ -23,7 +23,7 @@ excerpt_separator: <!--more-->
 大坝挺震撼的 第一次见这么大的水坝 <br>
 这么多水落差的能量 应该能发不少电吧 然后这些能量追根溯源 还是来自于太阳蒸发水汽的能量 所以与其说地球是母亲 还不如说地球只是个摇篮 太阳才是母亲 LOL
 
-![Travel]({{ "assets/img/pexels/cleveland_dam/2.jpg" | relative_url}})
+![Travel]({{ "assets/img/pexels/cleveland_dam/2-1.jpg" | relative_url}})
 
 <br/> 
 <br/> 
