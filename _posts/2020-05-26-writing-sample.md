@@ -5,10 +5,9 @@ tags: [other]
 excerpt_separator: <!--more-->
 ---
 
-This is the `introduction` part that I wrote for my current group project's proposal. The company's name is anonymized for confidentiality. <br>
-
+**This is the `introduction` part that I wrote for my current group project's proposal. The company's name is anonymized for confidentiality.** <br>
 <!--more-->
-
+<br>
 ## Introduction
 
 ### Business Background
