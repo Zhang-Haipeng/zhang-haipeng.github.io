@@ -5,7 +5,7 @@ tags: [Coding Practice]
 excerpt_separator: <!--more-->
 ---
 
-Made a simple scraper to download all the lecture recordings. Then rename and sort them by courses. <br>
+Made a simple scraper to download all the lecture recordings in MDS. Then rename and sort them by courses. <br>
 
 <!--more-->
 
