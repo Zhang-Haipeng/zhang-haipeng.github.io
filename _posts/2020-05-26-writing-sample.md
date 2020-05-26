@@ -15,7 +15,7 @@ excerpt_separator: <!--more-->
 * As a competitive fintech company, Company_Name needs tools to estimate the credit risk of its potential loan clients in a fast, quantified, accurate and objective manner. 
 
 ### Importance of the project
-The "Golden Rule" in evaluating a financing business is that we should always consider `profit` and `risk` together. Looking at `profit` only could be misleading.<br>
+The "Golden Rule" in evaluating a financing business is to always consider `profit` and `risk` together. Looking at `profit` only could be misleading.<br>
 Traditionally, lenders assess the risk of a potential loan client by manually checking the client's background, financial status, financing history, and so on. But such an approach has many disadvantages:<br>
 1. The manual approach is slow, increasing the risk of losing the good clients. <br>
 2. It is qualitative, meaning the lender can not know how much riskier one client is over another.<br> 
