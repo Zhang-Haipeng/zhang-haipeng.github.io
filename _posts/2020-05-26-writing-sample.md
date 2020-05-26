@@ -19,7 +19,7 @@ The "Golden Rule" in evaluating a financing business is to always consider `prof
 Traditionally, lenders assess the risk of a potential loan client by manually checking the client's background, financial status, financing history, and so on. But such an approach has many disadvantages:<br>
 1. The manual approach is slow, increasing the risk of losing the good clients. <br>
 2. It is qualitative, meaning the lender can not know how much riskier one client is over another.<br> 
-3. It is subjective. The result is given based on people's judgment which may not reliable. <br>
+3. It is subjective. The result is given based on people's judgment which may not be reliable. <br>
 4. The person assessing the risk might be giving fake reports (operational risk). <br>
 
 Compared with the manual approach, machine learning models are fast, quantitative, objective, and transparent (either in terms of interpretability or methodology). Properly built, they can also be accurate. 
