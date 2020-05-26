@@ -11,8 +11,8 @@ excerpt_separator: <!--more-->
 ## Introduction
 
 ### Business Background
-* At the core of `Company_Name`'s business is balancing risk with profit. The ability to predict the likelihood and impact of a client not paying back a loan is of up-most importance. <br>
-* As a competitive fintech company, `Company_Name` needs tools to estimate the credit risk of its potential loan clients in a fast, quantified, accurate and objective manner. 
+* At the core of Company_Name's business is balancing risk with profit. The ability to predict the likelihood and impact of a client not paying back a loan is of up-most importance. <br>
+* As a competitive fintech company, Company_Name needs tools to estimate the credit risk of its potential loan clients in a fast, quantified, accurate and objective manner. 
 
 ### Importance of the project
 The "Golden Rule" in evaluating a financing business is that we should always consider `profit` and `risk` together. Looking at `profit` only could be misleading.<br>
@@ -34,7 +34,7 @@ As is shown above, the prediction of `PD` would be a supervised machine learning
 `Loss_Pct` means given the merchants can't repay the money, what percentage of the money we will lose. As is shown above, this task will be a regression task, where `y` would be numeric values. <br>
 <br>
 _PD * Loss_Pct = Expected Loss % (EL)_<br>
-Multiplying the two parameters will give us the `Expected Loss % (EL)`, which means we'll be able to assess the clients' risk level before doing business with them. 
+Multiplying the two parameters will yield the `Expected Loss % (EL)`, allowing us to assess the clients' risk levels before doing business with them. 
 
 ### Data Product
 ![Travel]({{ "assets/img/temp/intro_3.png" | relative_url}})<br>
