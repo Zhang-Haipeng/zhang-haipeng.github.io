@@ -30,9 +30,9 @@ In order to quantify the risk, we aim to predict two targets, the Probability of
 ![Travel]({{ "assets/img/temp/intro_1.png" | relative_url}})<br>
 As is shown above, the prediction of `PD` would be a supervised machine learning model development task, where the `y` would be binary labels (default/not default). <br>
 <br>
-* **The Percentage of Loss Given Default (Loss_Pct)** <br>
+* **The Percentage of Loss Given Default (PLGD)** <br>
 ![Travel]({{ "assets/img/temp/intro_2.png" | relative_url}})<br>
-`Loss_Pct` means given the merchants can't repay the money, what percentage of the money we will lose. As is shown above, this task will be a regression task, where `y` would be numeric values. <br>
+The prediction of `PLGD` will be a regression task, where `y` would be a numeric value (the amount of money Merchant Growth will lose if a client is unable to repay the loan and interest). <br>
 <br>
 _PD * Loss_Pct = Expected Loss % (EL)_<br>
 Multiplying the two parameters will yield the `Expected Loss % (EL)`, allowing us to assess the clients' risk levels before doing business with them. 
