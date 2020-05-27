@@ -32,12 +32,12 @@ As is shown above, the prediction of `PD` would be a supervised machine learning
 <br>
 * **The Percentage of Loss Given Default (PLGD)** <br>
 ![Travel]({{ "assets/img/temp/intro_2.png" | relative_url}})<br>
-The prediction of `PLGD` will be a regression task, where `y` would be a numeric value (the amount of money Merchant Growth will lose if a client is unable to repay the loan and interest). <br>
+The prediction of `PLGD` will be a regression task, where `y` would be a numeric value (the amount of money Company_Name will lose if a client is unable to repay the loan and interest). <br>
 <br>
 _PD * Loss_Pct = Expected Loss % (EL)_<br>
-Multiplying the two parameters will yield the `Expected Loss % (EL)`, allowing us to assess the clients' risk levels before doing business with them. 
+Multiplying the two parameters will yield the `Expected Loss % (EL)`, allowing Company_Name to assess the clients' risk levels before doing business with them. 
 
 ### Data Product
 ![Travel]({{ "assets/img/temp/intro_3.png" | relative_url}})<br>
-The major data product of this project will be the two models (`PD` and `Loss_Pct`). With those two models, having the client's data as input, we'll be able to assess the risk levels as needed, which brings valuable insights for making key business decisions. <br>
+The major data product of this project will be the two models (`PD` and `PLGD`). With those two models, having the client's data as input, Company_Name will be able to assess the risk levels as needed, which brings valuable insights for making key business decisions. <br>
 The team will also provide documentation on the model development process. Make relevant analysis reports and use proper visualizations where necessary. <br>
