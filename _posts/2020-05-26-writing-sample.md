@@ -25,7 +25,7 @@ Traditionally, lenders assess the risk of a potential loan client by manually ch
 Compared with the manual approach, machine learning models are fast, quantitative, objective, and transparent (either in terms of interpretability or methodology). Properly built, they can also be accurate. 
 
 ### Two targets
-In order to quantify the risk, we aim to predict two targets, the Probability of Default (PD) and the Percentage of Loss Given Default (Loss_Pct).<br> 
+In order to quantify the risk, we aim to predict two targets, the Probability of Default (PD) and the Percentage of Loss Given Default (PLGD).<br> 
 * **The Probability of Default (PD)**<br>
 ![Travel]({{ "assets/img/temp/intro_1.png" | relative_url}})<br>
 As is shown above, the prediction of `PD` would be a supervised machine learning model development task, where the `y` would be binary labels (default/not default). <br>
@@ -34,7 +34,7 @@ As is shown above, the prediction of `PD` would be a supervised machine learning
 ![Travel]({{ "assets/img/temp/intro_4.png" | relative_url}})<br>
 The prediction of `PLGD` will be a regression task, where `y` would be a numeric value (the amount of money Company_Name will lose if a client is unable to repay the loan and interest). <br>
 <br>
-_PD * Loss_Pct = Expected Loss % (EL)_<br>
+_PD * PLGD = Expected Loss % (EL)_<br>
 Multiplying the two parameters will yield the `Expected Loss % (EL)`, allowing Company_Name to assess the clients' risk levels before doing business with them. 
 
 ### Data Product
