@@ -32,7 +32,7 @@ As is shown above, the prediction of `PD` would be a supervised machine learning
 <br>
 * **The Percentage of Loss Given Default (PLGD)** <br>
 ![Travel]({{ "assets/img/temp/intro_4.png" | relative_url}})<br>
-The prediction of `PLGD` will be a regression task, where `y` would be a numeric value (the amount of money Company_Name will lose if a client is unable to repay the loan and interest). <br>
+As is shown above, the prediction of `PLGD` will be a regression task, where `y` would be a numeric value (the amount of money Company_Name will lose if a client is unable to repay the loan and interest). <br>
 <br>
 _PD * PLGD = Expected Loss % (EL)_<br>
 Multiplying the two parameters will yield the `Expected Loss % (EL)`, allowing Company_Name to assess the clients' risk levels before doing business with them. 
