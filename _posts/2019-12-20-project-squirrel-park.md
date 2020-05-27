@@ -29,12 +29,6 @@ We built a Heroku App with python `dash`. The App allows users to learn about th
 * Users can select certain regions by clicking on any of the bar charts, or directly on the map, and all plots will interactively highlight the selected regions (as is shown in the second sketch). 
 
 
-## App Usage 
-> * View squirrel distribution by park region, time of the day, and behavior.    
-> * Direct the mouse to a region or bar on the graphs for detailed information.   
-> * Click on the map or any chart to highlight specific regions. Hold "Shift" and click to highlight and compare multiple regions at once!  
-> * Use the drop-down menu below the graphs to change the behavior displayed.   
-
 ## App Sketch:
 
 ![image](https://i.ibb.co/sKKNZzw/Screen-Shot-2019-11-22-at-11-15-11-AM.png)  
@@ -43,3 +37,8 @@ We built a Heroku App with python `dash`. The App allows users to learn about th
 
 ![image](https://i.ibb.co/7Vk3qJ0/Screen-Shot-2019-11-22-at-3-11-33-PM.png)  
 
+## App Usage 
+> * View squirrel distribution by park region, time of the day, and behavior.    
+> * Direct the mouse to a region or bar on the graphs for detailed information.   
+> * Click on the map or any chart to highlight specific regions. Hold "Shift" and click to highlight and compare multiple regions at once!  
+> * Use the drop-down menu below the graphs to change the behavior displayed.   
