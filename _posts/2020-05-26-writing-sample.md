@@ -31,7 +31,7 @@ In order to quantify the risk, we aim to predict two targets, the Probability of
 As is shown above, the prediction of `PD` would be a supervised machine learning model development task, where the `y` would be binary labels (default/not default). <br>
 <br>
 * **The Percentage of Loss Given Default (PLGD)** <br>
-![Travel]({{ "assets/img/temp/intro_2.png" | relative_url}})<br>
+![Travel]({{ "assets/img/temp/intro_4.png" | relative_url}})<br>
 The prediction of `PLGD` will be a regression task, where `y` would be a numeric value (the amount of money Company_Name will lose if a client is unable to repay the loan and interest). <br>
 <br>
 _PD * Loss_Pct = Expected Loss % (EL)_<br>
