@@ -17,6 +17,23 @@ excerpt_separator: <!--more-->
 <br/>
 <br/>
 
+## 慢慢喜欢你 
+#### 2020-05-30  
+明明是18年的新歌，听着总有种老歌的感觉。<br>
+“你说你好像带我回去你的家乡。<br>
+绿瓦红砖柳树和青苔，过去和现在都一个样。你说你也会这样。” <br>
+歌写的真好
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="1120" height="630" src="https://www.youtube.com/embed/KPX-0d82a9s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+<br/>
+<br/>
+<br/>
+
+
 ## 咬之歌 纯伴奏 
 #### 2020-04-17  
 这么多年没弹的伴奏了，东拼西凑的找谱子听原版总算又捡了起来。 <br>
