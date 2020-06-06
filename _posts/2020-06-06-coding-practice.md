@@ -620,3 +620,58 @@ print(p_l)
 ```
 <br/>
 <br/>
+
+
+# Problem 13: Feature selection by correlation
+##### Difficulty: Easy
+##### Date: 2020-06-06
+
+## Problem statement
+This is a problem that I had in my current project, that I found a bit tricky to deal with. <br>
+What needs to be done is to, given the `X` dataframe, drop the features that have high correlations (higher than `corr_bar`) and keep whichever has the higher Information Value (IV), according to the given `iv_df`.<br>
+Notes:<br>
+1. `X` contains missing values. 
+2. `iv_df` = pd.DataFrame({"feature": [list_of_feature_names], "iv": [corresponding iv of the features]})
+3. The function works like this: ftr_select_corr(X, corr_bar, iv_df)
+
+## References
+NA
+
+#### End of problem statement
+
+## Solution  
+```python
+def ftr_select_corr(X, corr_bar, iv_df):
+    """
+    Drop features that have correlation higher than `corr_bar` and keep whichever has the higher iv according to `auc_df`.
+    """
+
+    cols = list(X.columns)
+    cols_drop = []
+    corr_df = X.corr()
+#     print("corr_df created.")
+    i = 0
+    while i < len(cols) - 1:
+        col_1 = cols[i]
+        j = i + 1 
+        while j < len(cols):
+            col_2 = cols[j]
+            corr = corr_df.loc[col_2, col_1]
+            if abs(corr) > corr_bar:
+                iv_1 = iv_df.query('feature == @col_1')['iv'].squeeze()
+                iv_2 = iv_df.query('feature == @col_2')['iv'].squeeze()
+                col_drop = col_2 if iv_1 > iv_2 else col_1
+                cols_drop.append(col_drop)
+                cols.remove(col_drop)
+                X = X.drop(col_drop, axis=1)
+                j -= 1
+                if col_drop == col_1:
+                    i -= 1
+                    break
+            j += 1
+        i += 1
+    return [X, cols_drop]
+
+```
+<br/>
+<br/>
