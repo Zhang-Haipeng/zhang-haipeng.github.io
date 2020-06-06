@@ -677,7 +677,7 @@ def ftr_select_corr(X, corr_bar, iv_df):
 <br/>
 
 
-# Problem 13: Reducing Dishes
+# Problem 14: Reducing Dishes
 ##### Difficulty: Easy
 ##### Date: 2020-06-06
 
@@ -690,30 +690,30 @@ Return the maximum sum of Like-time coefficient that the chef can obtain after d
 
 Dishes can be prepared in any order and the chef can discard some dishes to get this maximum value.
 
-Example 1:
->Input: satisfaction = [-1,-8,0,5,-9]
->Output: 14
->Explanation: After Removing the second and last dish, the maximum total Like-time coefficient will be equal to (-1*1 + 0*2 + 5*3 = 14). Each dish is prepared in one unit of time.
+Example 1:<br>
+>Input: satisfaction = [-1,-8,0,5,-9]<br>
+>Output: 14<br>
+>Explanation: After Removing the second and last dish, the maximum total Like-time coefficient will be equal to (-1*1 + 0*2 + 5*3 = 14). Each dish is prepared in one unit of time.<br>
 
-Example 2:
->Input: satisfaction = [4,3,2]
->Output: 20
->Explanation: Dishes can be prepared in any order, (2*1 + 3*2 + 4*3 = 20)
+Example 2:<br>
+>Input: satisfaction = [4,3,2]<br>
+>Output: 20<br>
+>Explanation: Dishes can be prepared in any order, (2*1 + 3*2 + 4*3 = 20)<br>
 
-Example 3:
->Input: satisfaction = [-1,-4,-5]
->Output: 0
->Explanation: People don't like the dishes. No dish is prepared.
+Example 3:<br>
+>Input: satisfaction = [-1,-4,-5]<br>
+>Output: 0<br>
+>Explanation: People don't like the dishes. No dish is prepared.<br>
 
-Example 4:
->Input: satisfaction = [-2,5,-1,0,3,-3]
->Output: 35
+Example 4:<br>
+>Input: satisfaction = [-2,5,-1,0,3,-3]<br>
+>Output: 35<br>
  
 
-Constraints:
->n == satisfaction.length
->1 <= n <= 500
->-10^3 <= satisfaction[i] <= 10^3
+Constraints:<br>
+>n == satisfaction.length<br>
+>1 <= n <= 500<br>
+>-10^3 <= satisfaction[i] <= 10^3<br>
 
 
 ## References
