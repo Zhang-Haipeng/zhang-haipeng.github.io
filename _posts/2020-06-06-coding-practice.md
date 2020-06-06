@@ -627,7 +627,7 @@ print(p_l)
 ##### Date: 2020-06-06
 
 ## Problem statement
-This is a problem that I had in my current project, that I found a bit tricky to deal with. <br>
+This is a problem that I had in my current project. <br>
 What needs to be done is to, given the `X` dataframe, drop the features that have high correlations (higher than `corr_bar`) and keep whichever has the higher Information Value (IV), according to the given `iv_df`.<br>
 Notes:<br>
 1. `X` contains missing values. 
