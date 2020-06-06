@@ -675,3 +675,70 @@ def ftr_select_corr(X, corr_bar, iv_df):
 ```
 <br/>
 <br/>
+
+
+# Problem 13: Reducing Dishes
+##### Difficulty: Easy
+##### Date: 2020-06-06
+
+## Problem statement
+A chef has collected data on the `satisfaction` level of his `n` dishes. Chef can cook any dish in 1 unit of time.
+
+Like-time coefficient of a dish is defined as the time taken to cook that dish including previous dishes multiplied by its satisfaction level  i.e.  `time[i]*satisfaction[i]`
+
+Return the maximum sum of Like-time coefficient that the chef can obtain after dishes preparation.
+
+Dishes can be prepared in any order and the chef can discard some dishes to get this maximum value.
+
+Example 1:
+>Input: satisfaction = [-1,-8,0,5,-9]
+>Output: 14
+>Explanation: After Removing the second and last dish, the maximum total Like-time coefficient will be equal to (-1*1 + 0*2 + 5*3 = 14). Each dish is prepared in one unit of time.
+
+Example 2:
+>Input: satisfaction = [4,3,2]
+>Output: 20
+>Explanation: Dishes can be prepared in any order, (2*1 + 3*2 + 4*3 = 20)
+
+Example 3:
+>Input: satisfaction = [-1,-4,-5]
+>Output: 0
+>Explanation: People don't like the dishes. No dish is prepared.
+
+Example 4:
+>Input: satisfaction = [-2,5,-1,0,3,-3]
+>Output: 35
+ 
+
+Constraints:
+>n == satisfaction.length
+>1 <= n <= 500
+>-10^3 <= satisfaction[i] <= 10^3
+
+
+## References
+The problem is from [here](https://leetcode.com/problems/reducing-dishes/)
+
+#### End of problem statement
+
+## Solution  
+```python
+def maxSatisfaction(satisfaction):
+    """
+    Early stopping could be added to make the method more efficient.
+    """
+        max_coef = 0
+        best_combo = []
+        satisfaction_sorted = sorted(satisfaction)
+
+        for n in range(1, len(satisfaction)+1):
+            coef = sum([satisfaction_sorted[-n:][i] * (i+1) for i in range(n)])
+            if coef > max_coef:
+                max_coef = coef
+                best_combo = satisfaction_sorted[-n:]
+        
+        return max_coef
+
+```
+<br/>
+<br/>
