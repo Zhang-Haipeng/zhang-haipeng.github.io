@@ -643,7 +643,7 @@ NA
 ```python
 def ftr_select_corr(X, corr_bar, iv_df):
     """
-    Drop features that have correlation higher than `corr_bar` and keep whichever has the higher iv according to `auc_df`.
+    Drop features that have correlation higher than `corr_bar` and keep whichever has the higher iv according to `iv_dif`.
     """
 
     cols = list(X.columns)
