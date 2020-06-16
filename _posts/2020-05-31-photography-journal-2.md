@@ -9,10 +9,27 @@ excerpt_separator: <!--more-->
 <!--more-->
 
 ## Here
-* 为了防止图片过多页面load太慢，新开一贴。 
-* [摄影手记 - 1 (2019-11 ~ 2020-02)](https://zhang-haipeng.github.io/2020/02/19/photography-journal.html)  
+* In case it takes too long to load, this is the 2nd page of the journal. 
+* [Photography Journal - 1 (2019-11 ~ 2020-02)](https://zhang-haipeng.github.io/2020/02/19/photography-journal.html)  
 <br/> 
 <br/> 
+
+## Wreck beach - 3:  
+* 2020-05-31
+
+![Travel]({{ "assets/img/pexels/wreck_3/1.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/wreck_3/2.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/wreck_3/3.jpg" | relative_url}})
+
+Some midnight vibe <br>
+
+![Travel]({{ "assets/img/pexels/wreck_3/4.jpg" | relative_url}})
+
+<br/> 
+<br/> 
+
 
 ## Cleveland Dam:  
 * 2020-05-17
@@ -20,13 +37,14 @@ excerpt_separator: <!--more-->
 天气不错 地图上东挑西选决定去Cleveland Dam <br>
 
 ![Travel]({{ "assets/img/pexels/cleveland_dam/1.jpg" | relative_url}})
-  
-大坝挺震撼的 第一次见这么大的水坝 <br>
-这么多水落差的能量 应该能发不少电吧 <br>
+
+大坝挺震撼的 第一次见这么大的水坝
+这么多水落差的能量 应该能发不少电吧
 然后这些能量追根溯源 还是来自于太阳蒸发水汽的能量 所以与其说地球是母亲 还不如说地球只是个摇篮 太阳才是母亲 LOL
 
 ![Travel]({{ "assets/img/pexels/cleveland_dam/2-1.jpg" | relative_url}})
 
+  
 <br/> 
 <br/> 
 
