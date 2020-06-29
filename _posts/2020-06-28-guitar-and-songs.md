@@ -24,7 +24,7 @@ excerpt_separator: <!--more-->
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe width="1120" height="630" src="https://youtu.be/jjORTnBTT_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="1120" height="630" src="https://www.youtube.com/embed/jjORTnBTT_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
 <br/>
