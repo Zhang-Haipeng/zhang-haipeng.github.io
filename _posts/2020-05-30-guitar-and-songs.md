@@ -17,6 +17,20 @@ excerpt_separator: <!--more-->
 <br/>
 <br/>
 
+## Wind Song - 风の诗 
+#### 2020-06-28  
+这应该是最早练习的第二首曲子，虽然弹过无数遍但从来没有试着录过。因为虽然曲子不难，但是感觉要弹好听很不容易<br>
+边弹着就好像跟过去的自己对话一样。<br>
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="1120" height="630" src="https://youtu.be/jjORTnBTT_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+<br/>
+<br/>
+<br/>
+
 ## 慢慢喜欢你 
 #### 2020-05-30  
 明明是18年的新歌，听着总有种老歌的感觉。<br>
