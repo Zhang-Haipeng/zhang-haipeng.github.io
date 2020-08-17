@@ -14,18 +14,20 @@ excerpt_separator: <!--more-->
 <br/> 
 <br/> 
 
-## Wreck beach - 3:  
-* 2020-05-31
 
-![Travel]({{ "assets/img/pexels/wreck_3/1.jpg" | relative_url}})
+## Camping:  
+* 2020-08-07
 
-![Travel]({{ "assets/img/pexels/wreck_3/2.jpg" | relative_url}})
+试了一下新买的帐篷，感觉不错  
 
-![Travel]({{ "assets/img/pexels/wreck_3/3.jpg" | relative_url}})
+感觉拍照上需要突破一下，要么多学点后期技术，要么升级一下设备 老这么拍 感觉没啥提升了  
 
-Some midnight vibe <br>
+月亮亮到出星芒 也是头一次  
 
-![Travel]({{ "assets/img/pexels/wreck_3/4.jpg" | relative_url}})
+![Travel]({{ "assets/img/pexels/wreck_4/1.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/wreck_4/2.jpg" | relative_url}})
+
 
 <br/> 
 <br/> 
