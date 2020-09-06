@@ -17,6 +17,22 @@ excerpt_separator: <!--more-->
 <br/>
 <br/>
 
+## 失之城 
+#### 2020-09-06  
+放着原版一起弹的 本来只想感受一下乐队的感觉  结果出乎意料的带感 
+而且音响低音震得画面产生了一些扭曲的效果  莫名很燃
+<br>
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="1120" height="630" src="https://www.youtube.com/embed/Y6Lc-n18Ua4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+<br/>
+<br/>
+<br/>
+
+
 ## Wind Song - 风の诗 
 #### 2020-06-28  
 这应该是最早练习的第二首曲子，虽然弹过无数遍但从来没有试着录过。因为虽然曲子不难，但是感觉要弹好听很不容易<br>
