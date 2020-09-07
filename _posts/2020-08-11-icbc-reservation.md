@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web scraping for making reservations automatically
+title: Web scraping for making reservations
 tags: [Coding Practice]
 excerpt_separator: <!--more-->
 ---
@@ -10,7 +10,9 @@ Making a reservation for the driving license knowledge test can be super hard du
 <!--more-->
 
 The script is far from complete. But while I was still testing its functionalities and debugging some issues, it grabbed me a very nice appointment. LOL <br/>
-Improvements needed: 
+<br/>
+
+<u> Improvements needed: </u>
 * Add docstrings to the functions.
 * Break the long workflow into functions. 
 * Figure out the bugs that could possibly mess up the workflow. 
