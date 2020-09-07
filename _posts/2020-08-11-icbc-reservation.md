@@ -5,7 +5,7 @@ tags: [Coding Practice]
 excerpt_separator: <!--more-->
 ---
 
-Making a reservation for the driving license knowledge test can be super hard during summer times due to crowded applicants. So I made this python script to monitor and catch available appointments and make automatic reservations. <br>
+Making a reservation for the driving license knowledge test can be difficult during summer times due to large demands. So I made this python script to monitor and catch available appointments and make automatic reservations. <br>
 
 <!--more-->
 
