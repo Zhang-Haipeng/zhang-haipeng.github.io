@@ -16,7 +16,7 @@ The script is far from complete. But while I was still testing its functionaliti
 * Add docstrings to the functions.
 * Break the long workflow into functions. 
 * Figure out the bugs that could possibly mess up the workflow. 
-* Wonder if it's possible to get it done without using Selenium, which is not effective. 
+* Wonder if it's possible to get it done without using Selenium, which is not efficient. 
 
 ```python
 # Python3
