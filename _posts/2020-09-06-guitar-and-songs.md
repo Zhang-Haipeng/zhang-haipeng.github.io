@@ -17,6 +17,22 @@ excerpt_separator: <!--more-->
 <br/>
 <br/>
 
+## 9 crimes 
+#### 2020-10-31  
+You sing best when you're half awake.   
+<br>
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="1120" height="630" src="https://www.youtube.com/embed/O679ZrQ0A0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+<br/>
+<br/>
+<br/>
+
+
+
 ## 失之城 
 #### 2020-09-06  
 放着原版一起弹的 本来只想感受一下乐队的感觉  结果出乎意料的带感 
