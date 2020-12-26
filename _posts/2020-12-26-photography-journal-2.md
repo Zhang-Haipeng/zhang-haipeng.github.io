@@ -14,12 +14,12 @@ excerpt_separator: <!--more-->
 <br/> 
 <br/> 
 
-## Toronto Sunset:  
-* 2020-11-07
+## Barber Mill:  
+* 2020-12-26
 
-离上次出门拍照已经过去这么久了   
+This should be the last post of 2020, a procrastinated post of the photos taken about a month ago lol. <br/> 
 
-新买了5D4  多伦多的冬天晴天应该很多  各种事情忙完  可以多出去拍拍
+It's definitely another proof of the idea that going out is always great. Cuz I had no idea that I would run into such a cool place by taking a random visit to a random town in the neighborhood. <br/>
 
 ![Travel]({{ "assets/img/pexels/0_toronto/1.jpg" | relative_url}})
 
@@ -27,6 +27,46 @@ excerpt_separator: <!--more-->
 
 ![Travel]({{ "assets/img/pexels/0_toronto/3.jpg" | relative_url}})
 
+
+<br/> 
+<br/> 
+
+
+
+## Toronto Sunset:  
+* 2020-11-07
+
+离上次出门拍照已经过去这么久了   
+
+新买了5D4  多伦多的冬天晴天应该很多  各种事情忙完  可以多出去拍拍
+
+![Travel]({{ "assets/img/pexels/01_barber-mill/1.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/01_barber-mill/2.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/01_barber-mill/3.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/01_barber-mill/4.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/01_barber-mill/5.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/01_barber-mill/6.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/01_barber-mill/7.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/01_barber-mill/8.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/01_barber-mill/9.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/01_barber-mill/10.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/01_barber-mill/11.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/01_barber-mill/12.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/01_barber-mill/13.jpg" | relative_url}})
+
+![Travel]({{ "assets/img/pexels/01_barber-mill/14.jpg" | relative_url}})
 
 <br/> 
 <br/> 
