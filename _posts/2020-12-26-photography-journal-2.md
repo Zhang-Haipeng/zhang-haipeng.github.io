@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
 
 This should be the last post of 2020, a procrastinated post of the photos taken about a month ago lol. <br/> 
 
-It's definitely another proof of the idea that going out is always great. Cuz I had no idea that I would run into such a cool place by taking a random visit to a random town in the neighborhood. <br/>
+It's definitely another backup of the idea that going out is always great. Cuz I had no idea that I would run into such a cool place by taking a random visit to a random town in the neighborhood. <br/>
 
 ![Travel]({{ "assets/img/pexels/01_barber-mill/1.jpg" | relative_url}})
 
