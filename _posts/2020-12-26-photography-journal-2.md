@@ -49,6 +49,7 @@ It's definitely another backup of the idea that going out is always great. Cuz I
 
 ![Travel]({{ "assets/img/pexels/01_barber-mill/14.jpg" | relative_url}})
 
+![Travel]({{ "assets/img/pexels/01_barber-mill/15.jpg" | relative_url}})
 
 <br/> 
 <br/> 
