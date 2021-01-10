@@ -8,8 +8,7 @@ excerpt_separator: <!--more-->
  <br/>   
 <!--more-->
 
-## Here
-* Here we go, 2021.  
+## Here we go, 2021
 * [Photography Journal - 1 (2019-11 ~ 2020-02)](https://zhang-haipeng.github.io/2020/02/19/photography-journal.html)  
 * [Photography Journal - 2 (2020-02 ~ 2020-12)](https://zhang-haipeng.github.io/2020/02/19/photography-journal.html)  
 <br/> 
