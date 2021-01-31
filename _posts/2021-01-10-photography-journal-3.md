@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Photography Journal - 3
-tags: [Photo]
+tags: [Photography]
 excerpt_separator: <!--more-->
 ---
 

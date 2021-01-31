@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scrape, rename and sort lecture recordings by course
-tags: [Coding Practice]
+tags: [Projects & coding skills]
 excerpt_separator: <!--more-->
 ---
 

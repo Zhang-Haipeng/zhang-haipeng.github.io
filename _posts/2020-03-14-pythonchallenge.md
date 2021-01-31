@@ -1,7 +1,7 @@
 ---
 layout: post
 title: pythonchallenge
-tags: [Coding Practice]
+tags: [Projects & coding skills]
 excerpt_separator: <!--more-->
 ---
 Records of solving [pythonchallenge.com](http://www.pythonchallenge.com/).

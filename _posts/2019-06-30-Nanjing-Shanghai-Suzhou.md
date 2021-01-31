@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 南京 - 苏州 - 上海
-tags: [Travel, Photo]
+tags: [Travel, Photography]
 excerpt_separator: <!--more-->
 ---
 

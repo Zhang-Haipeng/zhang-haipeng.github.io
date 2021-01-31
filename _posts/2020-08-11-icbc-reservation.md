@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Web scraping for making reservations
-tags: [Coding Practice]
+tags: [Projects & coding skills]
 excerpt_separator: <!--more-->
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project - NBA Minutes Predictor
-tags: [Projects]
+tags: [Projects & coding skills]
 excerpt_separator: <!--more-->
 ---
 

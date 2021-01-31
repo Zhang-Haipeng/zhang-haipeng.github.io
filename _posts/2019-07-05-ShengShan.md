@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 嵊山岛 - 东极以东
-tags: [Travel, Photo]
+tags: [Travel, Photography]
 excerpt_separator: <!--more-->
 ---
 

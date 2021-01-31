@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project - Intrinio API wrapper
-tags: [Projects]
+tags: [Projects & coding skills]
 excerpt_separator: <!--more-->
 ---
 
